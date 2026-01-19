@@ -14,3 +14,7 @@ Herhangi bir sorunla karşılaşırsanız veya yardım almak isterseniz, destek 
 
 🪪 Lisans
 Bu proje, [Apache-2.0 Lisansı](https://www.apache.org/licenses/LICENSE-2.0) ile lisanslanmıştır. Detaylar için `LICENSE` dosyasına göz atabilirsiniz.
+
+
+This project is licensed under the Apache License 2.0.
+Any use must include proper credit and a link to this repository.
